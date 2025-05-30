@@ -1,6 +1,8 @@
 # LUCF-Net
 Code for paper "LUCF-Net: Lightweight U-shaped Cascade Fusion Network for Medical Image Segmentation". 
 
+🎉🎉🎉 This paper has been accepted by IEEE Journal of Biomedical and Health Informatics !
+
 ## 1. Environment
 
 - Please prepare an environment with Ubuntu 20.04, with Python 3.9.16, PyTorch ≥ 2.0.0, and CUDA ≥ 11.7
